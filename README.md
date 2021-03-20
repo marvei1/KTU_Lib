@@ -18,8 +18,8 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 • Package – komponento korpuso tipas<br/>
 • Supplier 1 – tiekėjas: Farnell, TME, Digi-Key, Mouser;<br/>
 • Supplier Part Number 1 – tiekėjo užsakymo kodas<br/>
-• ComponentLink1Description - Datasheet<br/>
-• ComponentLink1URL - nuoroda į techninę dokumentaciją<br/>
+• ComponentLink1Description - Datasheet (šio užrašo nereikia keisti)<br/>
+• ComponentLink1URL - nuoroda į .pdf techninę dokumentaciją<br/>
 
 
 Priklausomai nuo komponento kategorijos įvedami papildomi parametrai.<br/>
@@ -30,7 +30,7 @@ Priklausomai nuo komponento kategorijos įvedami papildomi parametrai.<br/>
 • Voltage - rezistoriaus įtampa<br/>
 • Power - rezistoriaus galia<br/>
 • Tolerance - rezistoriaus tikslumas<br/>
-• Temperature Coefficient - temperatūrinis koeficientas
+• Temperature Coefficient - temperatūrinis koeficientas<br/>
 
 Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
 Skiltyje Description - įvedamas trumpas rezistoriaus aprašas, pavyzdžiui:<br/>
