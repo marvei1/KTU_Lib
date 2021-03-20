@@ -47,3 +47,13 @@ Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
 Skiltyje Description - įvedamas trumpas kondensatoriaus aprašas, pavyzdžiui:<br/>
 CAP MLCC, 100nF, 25V, 0603 [1608 Metric], ±10%, X7R<br/>
 
+**Indukčiai**<br/>
+• Part Type - indun tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
+• Value - ritės induktyvumas<br/>
+• Current - ritės srovė<br/>
+• Voltage - ritės įtampa<br/>
+• Tolerance - ritės tikslumas<br/>
+
+Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
+Skiltyje Description - įvedamas trumpas indukčio aprašas, pavyzdžiui:<br/>
+IND 1nH, 1A, 50V, 0603 [1608 Metric], ±10%<br/>
