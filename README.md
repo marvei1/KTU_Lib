@@ -48,7 +48,7 @@ Skiltyje Description - įvedamas trumpas kondensatoriaus aprašas, pavyzdžiui:<
 CAP MLCC, 100nF, 25V, 0603 [1608 Metric], ±10%, X7R<br/>
 
 **Indukčiai**<br/>
-• Part Type - indun tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
+• Part Type - tipas<br/> 
 • Value - ritės induktyvumas<br/>
 • Current - ritės srovė<br/>
 • Voltage - ritės įtampa<br/>
